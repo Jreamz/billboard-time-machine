@@ -4,8 +4,8 @@ import spotipy
 import pprint
 from spotipy.oauth2 import SpotifyOAuth
 
-SPOTIFY_ID = "8e4c0beeb3e94e9db7a03e87afd0d372"
-SPOTIFY_KEY = "319e88496d124f2ea0d3f14d3fdbe458"
+SPOTIFY_ID = "IDHERE"
+SPOTIFY_KEY = "KEYHERE"
 
 USER_INPUT = input("What year do you want to travel to? Type the date in this format YYYY-MM-DD:\n")
 YEAR = USER_INPUT[:4]
